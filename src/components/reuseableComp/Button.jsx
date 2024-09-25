@@ -1,6 +1,6 @@
 export const ClearButton = ({ text }) => {
   return (
-    <a href="#" className="py-2 px-3 border rounded-md">
+    <a href="#" className="py-2 px-3 mx-3 border rounded-md">
       {text}
     </a>
   );
